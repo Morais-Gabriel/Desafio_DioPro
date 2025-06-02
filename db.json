@@ -1,0 +1,65 @@
+
+    [
+      
+        {"id": 1,
+          "nome": "Cartepie",
+          "lv": "2",
+          "Sexo": "M",
+          "hp": "45/45"
+        },
+
+        {"id": 2,
+          "nome": "Pikachu",
+          "lv": "7",
+          "Sexo": "F",
+          "hp": "55/55"
+        },
+
+        {"id": 3,
+          "nome": "Bulbasaur",
+          "lv": "10",
+          "Sexo": "F",
+          "hp": "75/75"
+        },
+
+        {"id": 4,
+          "nome": "Charmander",
+          "lv": "10",
+          "Sexo": "F",
+          "hp": "100/100"
+        },
+
+        {"id": 5,
+          "nome": "Squirtle",
+          "lv": "6",
+          "Sexo": "F",
+          "hp": "65/65"
+        },
+
+        {"id": 6,
+          "nome": "Ivysaur",
+          "lv": "90",
+          "Sexo": "M",
+          "hp": "1500/1500"
+        },
+
+        {
+          "id": 7,
+          "nome": "Charmeleon",
+          "lv": "91",
+          "Sexo": "M",
+          "hp": "1550/1550"
+        },
+
+        {"id": 8,
+          "nome": "Dragonite",
+          "lv": "999",
+          "Sexo": "F",
+          "hp": "9999/9999"
+        }
+
+]
+    
+        
+    
+
